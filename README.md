@@ -1,9 +1,8 @@
 # pragna
 <html>
-<br></br>
+<br>
 <head>
 <h1>MY RESUME:</h1>
-<BODY>
 </head>
 <body>
 <br><img src="https://media-exp1.licdn.com/dms/image/C5103AQGfAc5tHH1URA/profile-displayphoto-shrink_800_800/0?e=1605744000&v=beta&t=ut0owrbolrjOv7vIir0EYyJBMKVJxCdovWE_cKXDFFc"/><pragna.c><br>
